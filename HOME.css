@@ -1,0 +1,76 @@
+body{background-color: rgb(53, 54, 58);
+	background-image: url(fundo2/dream_places-wallpaper-1680x1050.jpg);
+	background-repeat: no-repeat;
+	background-position: center-center;
+	color: white;
+	width: 100%;
+	}
+															
+.a{
+	height: 400px;
+	margin-top: -8px;
+	margin-left: -8px;
+	margin-right: -8px;	
+	box-shadow: 7px 5px 6px black;
+}
+
+img#a{
+	background-image: url(fundo/589553.png);
+	position: fixed;}
+
+#h1a{color: white;
+	text-align: left;
+	margin: 30px;
+	text-shadow: 8px 9px 6px black;}	
+
+.li{
+	margin-left: 65px;
+	border: 1px 2px solid black;
+	padding: 10px;
+	float: left;
+	width: 200px;
+	text-align: center;
+	margin-top: 130px;
+	box-shadow: 8px 9px 6px black;
+	font-family: times new roman;
+	list-style-type: none;
+	border-radius: 28px;
+}
+
+a{
+	color: white;
+	text-decoration: none;
+	font-size: 25px;
+}
+
+
+.li:hover{
+	font-family: arial;
+	border-left: 1px solid black;
+	border-bottom: 1px solid yellow;
+	border-top: 1px solid red;
+	border-right: 1 px solid black;
+}
+
+#li{
+	text-align: center;
+	margin-top: 100px;
+	list-style-type: none;
+	font-family: times new roman;
+}
+
+.asize{
+	font-size: 20px;
+}
+
+.asize:hover{
+	margin-top: -200px;
+	font-size: 22px;
+	text-decoration: underline;
+	font-family: arial;
+
+}
+
+div#a{
+	text-align: center;
+}
