@@ -1,0 +1,28 @@
+body{background-color: rgb(53, 54, 58);
+	background-image: url(fundo2/assassins_creed_unity_arno_4k_hd_4-wallpaper-1680x1050.jpg);
+	background-repeat: no-repeat;
+	font-family: arial;
+	color: white;
+	width: 100%;
+	}
+
+img{
+	margin-left: -750px;
+}
+
+label{font-family: times new roman;
+	font-size: 14pt;}
+
+.b{
+	padding: 20px;
+	float: left;
+	margin-top: 100px;
+}
+
+a{text-decoration: none;
+ color: white;}
+
+a:hover {
+	text-decoration: underline;
+	font-size: 30px;
+}
