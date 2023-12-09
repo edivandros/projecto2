@@ -1,0 +1,25 @@
+body{
+	background-color: #606060;
+	background-image: url(fundo/998470.jpg);
+	background-repeat: no-repeat;
+
+}
+
+img{
+	background-image: url(fundo/589553.png);
+	position: fixed;}
+
+#h1a{color: white;
+	text-align: left;
+	margin: 30px;
+	text-shadow: 8px 9px 6px black;}	
+
+.c{
+	float: left;
+	border: 0px solid red;
+}
+
+.b{
+	margin-left: 300pt;
+	left: 300pt;
+}
